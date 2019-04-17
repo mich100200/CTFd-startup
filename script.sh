@@ -1,5 +1,5 @@
 sudo git clone https://github.com/CTFd/CTFd.git
-sudo apt install python -y
+sudo apt install python
 sudo snap install docker
 cd CTFd/
 sudo sh prepare.sh
